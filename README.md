@@ -8,7 +8,7 @@ This website serves as a basic demonstration of web development using front-end 
 
 Usage
 You can view this website by clicking the link:
-[Website Link](https://rahulbomnalli7.github.io/BNMIT-Example-Website/)
+[Website Link](https://rahulbomnalli.github.io/BNMIT-Example-Website/)
 
 Features
 Minimalistic design
